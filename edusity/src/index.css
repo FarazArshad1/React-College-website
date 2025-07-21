@@ -14,12 +14,12 @@ a {
   line-height: 1;
   cursor: pointer;
 }
-.container{
+.container {
   padding-left: 10%;
   padding-right: 10%;
 }
 
-.btn{
+.btn {
   background: #fff;
   color: #212121;
   padding: 14px 25px;
@@ -33,7 +33,12 @@ a {
   justify-content: center;
 }
 
-.btn img{
+.btn img {
   width: 20px;
   margin-left: 10px;
+}
+
+.btn.dark-btn {
+  background: #212ea0;
+  color: #fff;
 }
